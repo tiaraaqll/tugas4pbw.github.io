@@ -1,0 +1,16 @@
+.row {
+    font-family: 'Tahoma';
+    background-color: pink;
+}
+
+.jumbotron {
+    background-color: pink;
+}
+
+h1 {
+    font-family: 'Algerian';
+}
+
+img.card-img-top {
+    padding-inline: 50px;
+}

@@ -1,0 +1,18 @@
+body {
+    background-color: pink;
+    font-family: Arial;
+}
+
+h2 {
+    color: blue;
+    font-family: Algerian;
+}
+
+.card-body {
+    color: beige;
+}
+
+button {
+    background-color: blue;
+    color: beige;
+}
